@@ -1,14 +1,14 @@
 ---
-title: "Paper Title Number 1"
+title: "مجموعه لوگو های ساجاپا"
 collection: publications
 category: images
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/logo-set
+excerpt: 'لوگوی ساجاپا در انواع ابعاد و کاربرد ها، برای استفاده در جشنواره ها، رویداد ها و...'
+date: 2025-3-5
+venue: 'دارایی های عمومی'
+slidesurl: 'http://subject-team.github.io/SajapaApp/images/icon.png'
+paperurl: 'http://subject-team.github.io/SajapaApp/images/icon.png'
+citation: 'سابجکت, تیم نرم افزاری. (2025). &quot;مجموعه لوگو های ساجاپا.&quot; <i>دارایی های عمومی</i>. 1(1).'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+این مجموعه شامل انواع لوگو های عمومی ساجاپا برای استفاده و نمایش در جشنواره ها، رویداد ها و نقل قول ها است؛ تاکید می گردد استفاده از این دارایی ها بدون ذکر منبع مناسب یا سوءاستفاده از آنها پیگرد قانونی دارد. استفاده از استناد ذکر شده شدیدا توصیه می گردد.
