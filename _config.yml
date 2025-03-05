@@ -22,7 +22,7 @@ repository               : "subject-team/SajapaApp"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "logo.png"
+  avatar           : "icon.png"
   name             : "ساجاپا"
   pronouns         : # example: "she/her"  
   bio              : "سامانه جامع پایش سلامت"
