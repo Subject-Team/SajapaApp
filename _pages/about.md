@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a14d9f5c-d819-4795-9cdb-6b5e7ae32d15)---
+---
 permalink: /
 title: "ساجاپا؛ سامانه جامع پایش سلامت فردی"
 author_profile: true
