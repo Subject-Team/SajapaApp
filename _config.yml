@@ -11,7 +11,7 @@ locale                   : "fa-IR"
 site_theme               : "default"
 title                    : "Sajapa"
 title_separator          : "-"
-name                     : &name "ماهان خلیلی"
+name                     : &name "Subject Team"
 description              : &description "سامانه جامع پایش سلامت"
 url                      : https://subject-team.github.io/SajapaApp # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -57,7 +57,7 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : "Sajapa" # Username
+  instagram        : # "Sajapa" # Username
   lastfm           : # Username
   linkedin         : "mahan-khalili-s" # Username
   mastodon         : # URL
@@ -65,7 +65,7 @@ author:
   pinterest        : # Username
   soundcloud       : # Username
   steam            : # Username
-  telegram         : "Sajapa" # URL
+  telegram         : "SajapaApp" # URL
   tumblr           : # Username
   twitter          : # Username for X / Twitter
   vine             : # Username
