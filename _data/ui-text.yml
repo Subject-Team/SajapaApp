@@ -350,5 +350,45 @@ zh-HK: &DEFAULT_ZH_HK
 zh-TW:
   <<: *DEFAULT_ZH_HK
 
+# Persian
+# -----------------
+fa-IR: &DEFAULT_FA_IR
+  page                       : "صفحه"
+  pagination_previous        : "قبلی"
+  pagination_next            : "بعدی"
+  breadcrumb_home_label      : "خانه"
+  breadcrumb_separator       : "/"
+  toc_label                  : "در این صفحه"
+  ext_link_label             : "پیوند مستقیم"
+  less_than                  : "کمتر از"
+  minute_read                : "زمان خواندن"
+  share_on_label             : "اشتراک گذاری در"
+  meta_label                 :
+  tags_label                 : "برجسب ها:"
+  categories_label           : "دسته بندی ها:"
+  date_label                 : "منتشر شده:"
+  comments_label             : "نظر بدهید"
+  comments_title             : "نظرات"
+  more_label                 : "بیشتر"
+  related_label              : "ممکن است بپسندید"
+  follow_label               : "دنبال کردن:"
+  feed_label                 : "فید"
+  powered_by                 : "قدرت گرفته از"
+  website_label              : "وبسایت"
+  email_label                : "ایمیل"
+  recent_posts               : "پست های اخیر"
+  undefined_wpm              : "سرعت خواندن تنظیم نشده است"
+  comment_form_info          : "آدرس ایمیل شما عمومی نخواهد شد. بخش های الزامی مشخص شده اند"
+  comment_form_comment_label : "نظر"
+  comment_form_md_info       : "از markdown پشتیبانی می شود."
+  comment_form_name_label    : "نام"
+  comment_form_email_label   : "آدرس ایمیل"
+  comment_form_website_label : "سایت (اختیاری)"
+  comment_btn_submit         : "ثبت نظر"
+  comment_btn_submitted      : "ثبت شد"
+  comment_success_msg        : "با تشکر از نظرتان! این نظر بعد از تایید نماش داده خواهد شد."
+  comment_error_msg          : "شرمنده ایم، مشکلی در هنگام ثبت رخ داد. لطفا بخش های لازم را بررسی کنید و دوباره امتحان کنید."
+  loading_label              : "بارگیری..."
+
 # Another locale
 # --------------
