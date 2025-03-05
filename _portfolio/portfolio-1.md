@@ -4,10 +4,10 @@ excerpt: "چه امکاناتی ساجاپا را به یک برنامه ی وی
 collection: portfolio
 ---
 
-<img src="../images/Slide1.png"/>
+<img src="../../images/Slide1.png"/>
 
-<img src="../images/Slide2.png"/>
+<img src="../../images/Slide2.png"/>
 
-<img src="../images/Slide3.png"/>
+<img src="../../images/Slide3.png"/>
 
-<img src="../images/Slide4.png"/>
+<img src="../../images/Slide4.png"/>
