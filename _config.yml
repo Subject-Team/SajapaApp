@@ -57,7 +57,7 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # "Sajapa" # Username
+  instagram        : "sajapa_app" # Username
   lastfm           : # Username
   linkedin         : "mahan-khalili-s" # Username
   mastodon         : # URL
@@ -65,7 +65,7 @@ author:
   pinterest        : # Username
   soundcloud       : # Username
   steam            : # Username
-  telegram         : "SajapaApp" # URL
+  telegram         : "https://t.me/sajapa_app" # URL
   tumblr           : # Username
   twitter          : # Username for X / Twitter
   vine             : # Username
