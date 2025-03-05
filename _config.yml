@@ -9,11 +9,11 @@
 # Basic Site Settings
 locale                   : "fa-IR"
 site_theme               : "default"
-title                    : "Subject Team"
+title                    : "Sajapa"
 title_separator          : "-"
 name                     : &name "ماهان خلیلی"
 description              : &description "سامانه جامع پایش سلامت"
-url                      : https://subject-team.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://subject-team.github.io/SajapaApp # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "subject-team/SajapaApp"
 
