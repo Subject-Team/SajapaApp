@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "فناوری های به کار رفته"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,56 +9,56 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+فناوری های بنیادی
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Godot Engine 4.3.stable
+* Python 3.13
+* Virtual C++ Core
+* Virtual Java Core
 
-Work experience
+زبان های به کار رفته
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* GDScript 2
+* Python 3.13
+* C/C++
+* Java
+* Dart/Flutter
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+چهارچوب های نرم افزاری و کتابخانه ها
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* GDScript 2+
+* PyTorch
+* MatPlotLib
+* SLib
 
-Publications
+----
+
+دسترسی سریع به برچسب فناوری ها
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+اخبار و مقالات
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
+آموزش ها
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+----
+
+همکاران و مشارکت کنندگان
 ======
-* Currently signed in to 43 different slack teams
+* GDPulse | پالس، پلاگین های قدرتمند موتور گودو
+* RubyCode | روبی کد، دانشکده و آموزشگاه آنلاین کد نویسی و کامپیوتر
+* EbtekarWeb | ابتکاروب، ارائه دهنده انواع خدمات طراحی و پشتیبانی سایت
+
+حامیان مالی
+======
+* EbtekarWeb
