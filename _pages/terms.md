@@ -1,39 +1,29 @@
 ---
 permalink: /terms/
-title: "Terms and Privacy Policy"
-modified: 2016-06-06
+title: "قوانین و سیاست حریم خصوصی"
+modified: 2025-01-01
 ---
 
 {% include base_path %}
 {% include toc %}
 
-## Privacy Policy
+## سیاست حریم خصوصی
 
-The privacy of my visitors is extremely important. This Privacy Policy outlines the types of personal information that is received and collected and how it is used.
+تمام اطلاعات کاربر در برنامه در سرور های تحت اختیار تیم نرم افزاری سابجکت ذخیره خواهند شد؛ این اطلاعات برای کارکرد برنامه ضروری بوده و در صورت ارسال اطلاعات اشتباه، تقلبی یا متعلق به شخص دیگر، مسئولیت هرگونه خطای برنامه با خود شخص است.
 
-First and foremost, I will never share your email address or any other personal information to anyone without your direct consent.
+پروژه ساجاپا متعهد می شود دسترسی به اطلاعات را از هر شخص حقیقی یا حقوقی یا سازمانی که ممکن است اقدام به سوءاستفاده از آن اطلاعات کند سلب کند.
 
-### Log Files
+ممکن است هر زمانی اطلاعات برای تحلیل جمعی و ارائه خدمات بهتر به سرور دیگری منتقل شوند، در این صورت قوانین و شرایط آنها دقیقا با قوانین و شرایط ذکر شده برای اطلاعات اصلی یکسان است.
 
-Like many other websites, this site uses log files to help learn about when, from where, and how often traffic flows to this site. The information in these log files include:
+### گزارش ها
 
-* Internet Protocol addresses (IP)
-* Types of browser
-* Internet Service Provider (ISP)
-* Date and time stamp
-* Referring and exit pages
-* Number of clicks
+گزارشات ذخیره شده از ایرادات برنامه به طور خودکار به توسعه دهندگان ارسال خواهد شد؛ این اطلاعات شامل سخت افزار و سیستم عامل کاربر و گزارشات عملکرد برنامه هستند و مورد دیگری را شامل نمی شوند.
 
-All of this information is not linked to anything that is personally identifiable.
+در صورت لزوم، توسعه دهندگان می توانند با کسب اجازه از کاربر، اطلاعات بیشتری از او دریافت کنند.
 
-### Cookies and Web Beacons
 
-When you visit this site "convenience" cookies are stored on your computer when you submit a comment to help you log in faster to [Disqus](http://disqus.com) the next time you leave a comment.
+### وبسایت
 
-Third-party advertisers may also place and read cookies on your browser and/or use web beacons to collect information. This site has no access or control over these cookies. You should review the respective privacy policies on any and all third-party ad servers for more information regarding their practices and how to opt-out.
+فایل های گزارش در این سایت مشابه سایر سایت ها می باشند و حقوق مشابه برای آنها در نظر گرفته شده است.
 
-If you wish to disable cookies, you may do so through your web browser options. Instructions for doing so can be found on the specific web browsers' websites.
-
-#### Google Analytics
-
-Google Analytics is a web analytics tool I use to help understand how visitors engage with this website. It reports website trends using cookies and web beacons without identifying individual visitors. You can read [Google Analytics Privacy Policy](http://www.google.com/analytics/learn/privacy.html).
+کوکی ها و سایر موارد مورد نیاز سایت بر اساس نیاز های Github مشخص می شوند و ساجاپا مسئولیت و دسترسی به آنها ندارد.
