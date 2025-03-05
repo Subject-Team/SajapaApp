@@ -24,12 +24,14 @@ redirect_from:
 * Java
 * Dart/Flutter
 
-چهارچوب های نرم افزاری و کتابخانه ها
+چهارچوب های نرم افزاری، کتابخانه ها و پلاگین ها
 ======
 * GDScript 2+
 * PyTorch
 * MatPlotLib
 * SLib
+* SignalLens
+* TopNote
 
 ----
 
