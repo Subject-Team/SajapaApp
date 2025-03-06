@@ -1,8 +1,34 @@
 @font-face {
-    font-family: 'Estedad';
+    font-family: 'Estedad-ExtraBold';
     src: url('/SajapaApp/files/fonts/Estedad-ExtraBold.ttf') format('truetype');
 }
 
+@font-face {
+    font-family: 'Estedad-Bold';
+    src: url('/SajapaApp/files/fonts/Estedad-Bold.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Estedad';
+    src: url('/SajapaApp/files/fonts/Estedad-Regular.ttf') format('truetype');
+}
+
 body {
+    font-family: 'Estedad', sans-serif;
+}
+
+h1 {
+    font-family: 'Estedad-ExtraBold', sans-serif;
+}
+
+h2 {
+    font-family: 'Estedad-Bold', sans-serif;
+}
+
+h3 {
+    font-family: 'Estedad-Bold', sans-serif;
+}
+
+h4 {
     font-family: 'Estedad', sans-serif;
 }
