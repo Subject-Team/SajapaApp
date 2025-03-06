@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Estedad';
+    src: url('/SajapaApp/files/fonts/Estedad-ExtraBold.ttf') format('truetype');
+}
+
+body {
+    font-family: 'Estedad', sans-serif;
+}
