@@ -1,3 +1,6 @@
+<link rel="stylesheet" type="text/css" href="/SajapaApp/font.css">
+
+
 {% if site.comments.discourse.server %}
 {% include base_path %}
 {% capture canonical %}{{ base_path }}{% if site.permalink contains '.html' %}{{ page.url }}{% else %}{{ page.url | remove:'index.html' | strip_slash }}{% endif %}{% endcapture %}
