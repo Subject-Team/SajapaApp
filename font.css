@@ -18,7 +18,7 @@
 }
 
 body {
-    direction: rtl;
+    /* direction: rtl; */
     text-align: right;
     font-family: 'Estedad', sans-serif;
 }
