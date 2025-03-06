@@ -86,7 +86,11 @@ h4 {
 
 p {
     direction: rtl;
-    text-align: right;
-    font-family: 'Estedad', sans-serif;
-    font-wieght: 400;
+    font-family: 'Estedad', sans-serif; /* تنظیم فونت */
+    font-size: 16px;                    /* تنظیم اندازه فونت */
+    color: #333;                        /* تنظیم رنگ متن */
+    margin-bottom: 1em;                 /* تنظیم فاصله پایین پاراگراف */
+    line-height: 1.6;                   /* تنظیم ارتفاع خط */
+    text-align: justify;                /* تنظیم ترازبندی متن */
+    padding: 10px;                      /* تنظیم پدینگ */
 }
