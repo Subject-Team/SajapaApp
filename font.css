@@ -14,11 +14,13 @@
 }
 
 body {
+    direction: rtl;
+    text-align: right;
     font-family: 'Estedad', sans-serif;
 }
 
 h1 {
-    font-family: 'Estedad-ExtraBold', sans-serif;
+    font-family: 'Estedad-Bold', sans-serif;
 }
 
 h2 {
