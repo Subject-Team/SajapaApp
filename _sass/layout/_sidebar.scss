@@ -12,7 +12,11 @@
 
   @include clearfix();
   margin-bottom: 1em;
-   
+
+  /* افزودن مارجین سمت راست و چپ به سایدبار */
+  margin-right: 20px;
+  margin-left: 20px;
+
   @media (orientation: portrait) {
     margin-top: 5em;
   }
