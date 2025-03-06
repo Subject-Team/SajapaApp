@@ -4,6 +4,8 @@ title: "قوانین و سیاست حریم خصوصی"
 modified: 2025-01-01
 ---
 
+<link rel="stylesheet" type="text/css" href="https://subject-team.github.io/SajapaApp/font.css">
+
 {% include base_path %}
 {% include toc %}
 
