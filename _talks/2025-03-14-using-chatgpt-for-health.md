@@ -1,10 +1,11 @@
 ---
-title: 'کمک گرفتن از ChatGPT برای بهبود سلامتی، فرصت ها و چالش ها'
+title: "کمک گرفتن از ChatGPT برای بهبود سلامتی، فرصت ها و چالش ها"
+collection: talks
+type: "Talk"
+permalink: /talks/2025-03-14-using-chatgpt-for-health
+venue: "مقالات عمومی"
 date: 2025-03-14
-permalink: /posts/2025/03/using-chatgpt-for-health/
-tags:
-  - سوالات متداول
-  - آمار
+location: "Sajapa Website"
 ---
 
 در دنیای امروز، فناوری به سرعت درحال تحول است و ابزار های هوش مصنوعی نقش مهمی در بهبود زندگی ما ایفا می کنند و این بهبود بدون پیشرفت در حوزه سلامت معنای چندانی ندارد.
