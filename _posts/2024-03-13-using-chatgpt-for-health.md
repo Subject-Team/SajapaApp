@@ -1,7 +1,7 @@
 ---
 title: 'کمک گرفتن از ChatGPT برای بهبود سلامتی، فرصت ها و چالش ها'
-date: 2025-03-13
-permalink: /posts/2025/03/using_chatgpt_for_health/
+date: 2024-03-13
+permalink: /posts/2024/03/using_chatgpt_for_health/
 tags:
   - سوالات متداول
   - آمار
