@@ -361,7 +361,7 @@ fa-IR: &DEFAULT_FA_IR
   toc_label                  : "در این صفحه"
   ext_link_label             : "پیوند مستقیم"
   less_than                  : "کمتر از"
-  minute_read                : "زمان خواندن"
+  minute_read                : "دقیقه برای خواندن"
   share_on_label             : "اشتراک گذاری در"
   meta_label                 :
   tags_label                 : "برجسب ها:"
